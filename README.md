@@ -1,9 +1,9 @@
-# Raspberry zero LoRa HAB HAT
-With Breakout pins and optional BME280 environmental sensor mount.
+# Raspberry Zero LoRa HAB HAT
+With breakout pins and optional BME280 environmental sensor mount.
 
 ![pic.png](pic.png)  
 
-##BOM
+## BOM
 
 | component  | Version  | Link  | Notes |
 |---|---|---|---|
